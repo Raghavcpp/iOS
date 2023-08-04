@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A60959B0-FCB3-43F7-A8EC-BA748194C188"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A93EBA5-C847-479E-B873-AF53E9F83366"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controlaction/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "sSwitch: UISw"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A93EBA5-C847-479E-B873-AF53E9F83366 - b87ee9b46455b2ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "controlaction.ViewController.termsSwitch.getter : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "controlaction"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applelab/Desktop/Jobform/controlaction/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1A93EBA5-C847-479E-B873-AF53E9F83366 - 64cbeb36ae2a42b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "controlaction.ViewController.termsSwitch.setter : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "controlaction"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applelab/Desktop/Jobform/controlaction/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "1A93EBA5-C847-479E-B873-AF53E9F83366 - cc3fbc1d634d8ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "controlaction.ViewController.termsSwitch.modify : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "controlaction"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applelab/Desktop/Jobform/controlaction/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1A93EBA5-C847-479E-B873-AF53E9F83366 - 47f6eaa08a57b7f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "controlaction.ViewController.termsSwitch.modify : Swift.Optional&lt;__C.UISwitch&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "controlaction"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applelab/Desktop/Jobform/controlaction/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1A93EBA5-C847-479E-B873-AF53E9F83366 - 73fed29231f3b59b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "controlaction.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; controlaction.ViewController"
+                  moduleName = "controlaction"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applelab/Desktop/Jobform/controlaction/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "1A93EBA5-C847-479E-B873-AF53E9F83366 - 884f9441824dc110"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "controlaction.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;controlaction.ViewController&gt;"
+                  moduleName = "controlaction"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applelab/Desktop/Jobform/controlaction/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
